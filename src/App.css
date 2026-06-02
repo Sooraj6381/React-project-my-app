@@ -3,3 +3,9 @@
     justify-content: center;
     gap: 10px;
 }
+.headLine1{
+    color: white;
+}
+.headLine2{
+    color: orange;
+}

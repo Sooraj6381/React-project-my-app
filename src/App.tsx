@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-     <h1>Sooraj</h1>
+     <h1>MADRAS SALOON</h1>
     </>
   )
 }
